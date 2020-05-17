@@ -1,3 +1,7 @@
+Tested on minishift/openshift-openjdk. -V
+https://developers.redhat.com/blog/2017/02/23/getting-started-with-openshift-java-s2i/
+
+-----------------------
 # ola
 ola microservice using Spring Boot
 
