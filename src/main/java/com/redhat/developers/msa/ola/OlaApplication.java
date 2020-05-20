@@ -26,6 +26,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class OlaApplication {
 
     public static void main(String[] args) {
+    	System.out.println("**********Springboot main starting..................");
         SpringApplication.run(OlaApplication.class, args);
     }
 
